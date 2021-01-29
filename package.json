@@ -1,12 +1,12 @@
 {
-    "name": "imagemin-webp-webpack-plugin",
+    "name": "@telking/imagemin-webpack-plugin",
     "version": "3.3.3",
     "description": "Webpack plugin which converts images to the WebP format while also keeping the original files.",
     "author": {
-        "name": "Alexandru Pavaloi",
-        "email": "pava@iampava.com",
-        "url": "https://iampava.com"
-    },
+		"name": "幸焕光",
+		"email": "xhg1945454120@gmail.com",
+		"url": "github.com/GSZS"
+	},
     "license": "MIT",
     "main": "plugin.js",
     "keywords": [
